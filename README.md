@@ -1,4 +1,4 @@
-We are a team made up of threat researchers, developers, incident responders and helpline staff working to defend ghuman rights defendors. We primarily work within East & South East Asia regions.
+We are a team made up of threat researchers, developers, incident responders and helpline staff working to defend human rights defendors. We primarily work within East & South East Asia regions.
 
 Spyware research in the civil society space is currently dominated by a select group of experts with access to closed-source tools and methodologies, creating high barriers to entry for new researchers and responders. This negatively impacts civil societies ability to identify, respond and mitigate spyware globally by enforced bottlenecks.
 
