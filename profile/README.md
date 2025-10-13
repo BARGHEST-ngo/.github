@@ -8,7 +8,7 @@ We exist to challenge that.
 
 Our work fills critical gaps in spyware research, with the goal of enabling localized, decentralized, and public-interest threat labs to emerge around the world. For example, we specialize in threat research on Android devices—which make up over 72% of the global mobile market and are the dominant platforms across Asia, Latin America, and Africa.
 
-Alongside our tooling and investigations, we conduct **applied security research, penetration testing, and malware research (including reverse engineering and analysis)**, as well as threat intelligence research and hands-on incident response for at-risk communities. These capabilities directly inform our open methodologies and strengthen the defensive posture of partners on the ground.
+We are experienced in conducting **applied security research, penetration testing, and malware research (including reverse engineering and analysis)**, as well as threat intelligence research and hands-on incident response for at-risk communities. These capabilities directly inform our open methodologies and strengthen the defensive posture of partners on the ground.
 
 Through open-source, community-driven tools and methodologies, we aim to decolonize and democratize security research—pushing for independence from private-sector dominance. We envision a world where civic-led, public-interest investigations & technologists can thrive, free from centralized control.
 
