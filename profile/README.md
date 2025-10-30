@@ -12,8 +12,6 @@ We are experienced in conducting **applied security research, penetration testin
 
 Through open-source, community-driven tools and methodologies, we aim to decolonize and democratize security research—pushing for independence from private-sector dominance. We envision a world where civic-led, public-interest investigations & technologists can thrive, free from centralized control.
 
-All of our tools are built in-house, ensuring full technological sovereignty, transparency, and trust. Nothing is outsourced. Nothing is proprietary. Our team builds everything themselves—for the people, by the people.
-
-Our work goes beyond technology. It’s about accessibility. By lowering the barriers to security research, digital forensics and investigation, we ensure that no journalist, activist, or human rights defender is left behind—especially in the Global South.
+All of our tools are built in-house, ensuring full technological sovereignty, transparency, and trust. Nothing is outsourced. Nothing is proprietary. Our team builds everything themselves—for the people, by the people. But our work goes beyond technology. It’s more about accessibility. We feel that lowering the barriers to security research, digital forensics and investigation, we ensure that no journalist, activist, or human rights defender is left behind.
 
 We collaborate closely with our sister organization, SecurityMatters, and work in partnership with groups such as the Open Culture Foundation, Centre for Digital Resilience, and the Open Technology Fund (OTF).
