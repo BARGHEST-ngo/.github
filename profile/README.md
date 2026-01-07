@@ -1,4 +1,4 @@
-We are a grassroots security research team. We're a collective of hacktivists, technologists, security researchers, and incident responders working at the intersection of technology and human rights. 
+We are a grassroots security research team. We're a collective of hackers, technologists & security researchers working at the intersection of technology and human rights. 
 
 Our mission is to defend and support human rights defenders—particularly in East and Southeast Asia.
 
